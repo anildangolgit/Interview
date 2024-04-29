@@ -1,0 +1,3 @@
+Make it meets the functional goals and non functional goal well.
+What it means for the customer.
+Give the example of the LAP project.
